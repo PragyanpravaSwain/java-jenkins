@@ -5,5 +5,8 @@ public class Main{
         System.out.println("This is a demo Java Progrm");
         System.out.println("output: This is a demo Java Progrm");
         System.out.println(new Date());
+
+        Student student = new Student();
+        student.sayHello();
     }
 }
