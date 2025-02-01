@@ -1,6 +1,6 @@
 public class Student{
     public Student(){
-        System.out.println(x:"Creating Student Object");
+        System.out.println("Creating Student Object");
     }
 
     public void sayHello(){
